@@ -101,8 +101,3 @@ All simulations were performed in a controlled lab environment and did not invol
 
 ---
 
-### Author
-John Tucker  
-Email: john.a.tucker11@gmail.com  
-LinkedIn: linkedin.com/in/your-profile  
-GitHub: github.com/your-username
