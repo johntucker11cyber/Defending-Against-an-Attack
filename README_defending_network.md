@@ -2,7 +2,7 @@
 
 **Author:** John Tucker  
 **Category:** Network Security | Incident Response | Penetration Testing  
-**Date Completed:** July 2022  
+
 
 ---
 
